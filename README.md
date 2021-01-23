@@ -1,2 +1,2 @@
 # hello-world
-hello-world for practicing GitHub use
+hello-world for practice
